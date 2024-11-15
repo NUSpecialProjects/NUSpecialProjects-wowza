@@ -1,0 +1,27 @@
+.courseWrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.courseItem {
+    background-color: #EAEAEA;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    display: flex;
+}
+
+.courseTitle {
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    margin-right: auto;
+}
+
+.courseSelect {
+    margin-left: auto;
+}
